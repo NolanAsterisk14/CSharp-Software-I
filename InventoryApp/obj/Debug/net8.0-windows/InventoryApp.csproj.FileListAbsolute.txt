@@ -18,3 +18,4 @@ C:\Users\Nolan\Desktop\File Stuff\School Things\C968-Software I\InventoryApp\Inv
 C:\Users\Nolan\Desktop\File Stuff\School Things\C968-Software I\InventoryApp\InventoryApp\obj\Debug\net8.0-windows\InventoryApp.modifyPartForm.resources
 C:\Users\Nolan\Desktop\File Stuff\School Things\C968-Software I\InventoryApp\InventoryApp\obj\Debug\net8.0-windows\InventoryApp.AddProductForm.resources
 C:\Users\Nolan\Desktop\File Stuff\School Things\C968-Software I\InventoryApp\InventoryApp\obj\Debug\net8.0-windows\InventoryApp.ModifyProductForm.resources
+C:\Users\Nolan\Desktop\File Stuff\School Things\C968-Software I\InventoryApp\InventoryApp\obj\Debug\net8.0-windows\InventoryApp.sourcelink.json
